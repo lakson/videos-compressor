@@ -1,0 +1,12 @@
+{
+  "name": "video-compressor",
+  "version": "1.0.0",
+  "description": "Script de compression vidéo et création d'archive ZIP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.1"
+  }
+} 
